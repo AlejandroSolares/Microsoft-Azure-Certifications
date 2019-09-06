@@ -2,7 +2,10 @@
  This will be a repo with my personal expirience on the road to a full Cerfitified Azure Devops, this is by any means a real documentation for the certs mentioned inside, is just my own try and failure work-way 
 
 
-## First steps [![Azure certfications](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+## Test, labs, certs and assessments list
+
+
+[![Microsoft_DevOps_Assessment Done](https://img.shields.io/badge/Microsoft_DevOps_Assessment-Done-brightgreen.svg?style=for-the-badge)](https://github.com/sindresorhus/awesome#readme)
 
 I'll use [visual studio code](https://code.visualstudio.com/) as my scripts editors, for some exercises maybe ill use VS to creating some ARM templates, it goes to your own conffy editor or just use powershell/ISE to do all stuff i play with on this repo.
 
